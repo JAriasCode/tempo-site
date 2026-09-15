@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- Tempo · Suspended Hourglass mark (brand V1, chosen 2026-08-27) -->
+  <!-- top cap: winged crystal bar -->
+  <path d="M42 50 L100 30 L158 50 L146 60 L54 60 Z" fill="#39D2E8"/>
+  <!-- top chamber: emptied, outline funnel with facets -->
+  <path d="M60 60 L140 60 L106 100 L94 100 Z" fill="none" stroke="#39D2E8" stroke-width="5" stroke-linejoin="round"/>
+  <!-- falling sand: heartbeat pulse -->
+  <path d="M100 102 L100 112 L92 119 L108 128 L100 134 L100 141" fill="none" stroke="#F2F6F8" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- bottom chamber: filling with sand -->
+  <path d="M94 108 L106 108 L140 150 L60 150 Z" fill="none" stroke="#39D2E8" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M74 150 L126 150 L100 134 Z" fill="#A9D6E5"/>
+  <!-- bottom cap: winged crystal bar, pointed -->
+  <path d="M54 150 L146 150 L158 160 L100 180 L42 160 Z" fill="#39D2E8"/>
+  <!-- facet glints on caps -->
+  <path d="M100 30 L100 44 M100 180 L100 166" stroke="#0A1220" stroke-opacity=".55" stroke-width="3"/>
+</svg>
